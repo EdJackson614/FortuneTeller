@@ -1,2 +1,1 @@
-# FortuneTeller
-Week 1 Exercise
+basic gradle and gitignore for a java project with eclipse
